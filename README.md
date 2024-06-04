@@ -2,13 +2,13 @@ This is a [Next.js](https://nextjs.org/) template project bootstrapped with [`cr
 
 With the addition of a few packages and and its respective configurations like:
 
-[heroicons](https://github.com/tailwindlabs/heroicons#readme), beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
-[clsx](https://github.com/lukeed/clsx#readme), a tiny (239B) utility for constructing className strings conditionally.
-[@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms#readme), a plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
-[@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography#readme), a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.
-[Prettier](https://prettier.io/docs/en/), an opinionated code formatter with support for Typescript and many more.
-[eslint-config-prettier], turns off all rules that are unnecessary or might conflict with Prettier.
-[Autoprefixer](https://github.com/postcss/autoprefixer#readme), PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
+- [heroicons](https://github.com/tailwindlabs/heroicons#readme), beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [clsx](https://github.com/lukeed/clsx#readme), a tiny (239B) utility for constructing className strings conditionally.
+- [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms#readme), a plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
+- [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography#readme), a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.
+- [Prettier](https://prettier.io/docs/en/), an opinionated code formatter with support for Typescript and many more.
+- [eslint-config-prettier], turns off all rules that are unnecessary or might conflict with Prettier.
+- [Autoprefixer](https://github.com/postcss/autoprefixer#readme), PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
 
 ## Getting Started
 
