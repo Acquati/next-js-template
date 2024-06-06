@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) template project bootstrapped with [`cr
 
 With the addition of a few packages and and its respective configurations like:
 
+- [pnpm](https://pnpm.io/), fast, disk space efficient package manager.
 - [heroicons](https://github.com/tailwindlabs/heroicons#readme), beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [clsx](https://github.com/lukeed/clsx#readme), a tiny (239B) utility for constructing className strings conditionally.
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms#readme), a plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -15,6 +16,12 @@ With the addition of a few packages and and its respective configurations like:
 First, run the development server:
 
 ```bash
+pnpm install
+pnpm dev
+
+# or
+
+npm install
 npm run dev
 ```
 
