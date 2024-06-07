@@ -8,6 +8,7 @@ With the addition of a few packages and and its respective configurations like:
 - [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms#readme), a plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography#readme), a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.
 - [Prettier](https://prettier.io/docs/en/), an opinionated code formatter with support for Typescript and many more.
+- [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss), a Prettier v3+ plugin for Tailwind CSS v3.0+ that automatically sorts classes based on our recommended class order.
 - [eslint-config-prettier], turns off all rules that are unnecessary or might conflict with Prettier.
 - [Autoprefixer](https://github.com/postcss/autoprefixer#readme), PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
 
