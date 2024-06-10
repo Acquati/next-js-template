@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) template project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-With the addition of a few packages and and its respective configurations like:
+With the addition of a few packages and their respective configurations like:
 
 - [pnpm](https://pnpm.io/), fast, disk space efficient package manager.
 - [heroicons](https://github.com/tailwindlabs/heroicons#readme), beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
@@ -9,7 +9,7 @@ With the addition of a few packages and and its respective configurations like:
 - [@tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography#readme), a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.
 - [Prettier](https://prettier.io/docs/en/), an opinionated code formatter with support for Typescript and many more.
 - [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss), a Prettier v3+ plugin for Tailwind CSS v3.0+ that automatically sorts classes based on our recommended class order.
-- [eslint-config-prettier], turns off all rules that are unnecessary or might conflict with Prettier.
+- [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier), turns off all rules that are unnecessary or might conflict with Prettier.
 - [Autoprefixer](https://github.com/postcss/autoprefixer#readme), PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
 
 ## Getting Started
