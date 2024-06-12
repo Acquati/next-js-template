@@ -14,16 +14,17 @@ With the addition of a few packages and their respective configurations like:
 
 ## Getting Started
 
-First, run the development server:
+First, install PNPM if you don't have it globally in your machine:
+
+```bash
+npm install -g pnpm
+```
+
+Run the development server:
 
 ```bash
 pnpm install
 pnpm dev
-
-# or
-
-npm install
-npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
